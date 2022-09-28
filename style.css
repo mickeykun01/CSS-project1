@@ -4,11 +4,10 @@ body{
 }
 
 .header{
-    /* margin-top: 20px; */
-    /* margin-left: 20px; */
+    
     padding-left: 70px;
     padding-top: 10px;
-    width: 100%;
+    /* width: 100%; */
     height: 94px;
     background: #FFFFFF ;
     box-shadow: 0px 3px 30px #7B7B7B29;
@@ -18,14 +17,14 @@ body{
 
 .container{
     background-color: #F7F7F7;
-    width: 100%;
+    /* width: 100%; */
     height: 1368px;
     opacity: 1;
    
  }
 
  .container1{
-    width: 100%;
+    /* width: 100%; */
     display: grid;
     grid-template-columns: auto auto auto;
     justify-content: flex-start;    
@@ -85,7 +84,7 @@ body{
    margin: 10px;
    position: relative;
    left: 75%;
-   top: 60px;
+   top: 35px;
    font-size: 35px !important;
    color: black;
    opacity: 1;
@@ -95,6 +94,7 @@ body{
     font-weight: bolder;
     font-size: 23px;
     position: relative;
-    left: 79%;
+    left: 75%;
+    top: 31px;
 }
 
